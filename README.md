@@ -2,7 +2,7 @@
 Calculating the cost based on a given value and the volume based on given lengths
 
 # What I learned
-Basics of Matlab and Variable Assignment\n
-Basic Functions\n
-Comments\n
+Basics of Matlab and Variable Assignment\
+Basic Functions\
+Comments\
 Basic Strings and Concatenation 
